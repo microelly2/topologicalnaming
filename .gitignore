@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+#me
+_*
+*.fcstd1
+*.fcstd2
+*~
